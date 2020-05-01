@@ -25,3 +25,7 @@
 * 反向代理：nginx
 * 文件上传：FastDFS
 * 静态化框架：Thymeleaf
+
+## 前后端对接API文档：
+
+* 实现OpenAPI规范的工具：Swagger
