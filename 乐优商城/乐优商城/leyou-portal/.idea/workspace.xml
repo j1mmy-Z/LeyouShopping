@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d105a50e-755f-41ea-b17f-bf4ea35de7e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/ssm_web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/classes/spring-security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/classes/spring-security.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/login_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/login_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../权限管理项目/ssmProject/ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/login_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马旅游网/travel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马旅游网/travel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马旅游网/travel/src/main/java/cn/jimmy/travel/web/servlet/BaseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马旅游网/travel/src/main/java/cn/jimmy/travel/web/servlet/BaseServlet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1a9b4yAi3OOVJDhKYzUP7AeeYJz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leyou-manage-web" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d105a50e-755f-41ea-b17f-bf4ea35de7e6" name="Default Changelist" comment="" />
+      <created>1586150569775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586150569775</updated>
+      <workItem from="1586150571338" duration="65000" />
+      <workItem from="1586150644931" duration="7142000" />
+      <workItem from="1586571635596" duration="1856000" />
+      <workItem from="1586659244317" duration="11277000" />
+      <workItem from="1586737230211" duration="18634000" />
+      <workItem from="1586851708340" duration="7691000" />
+      <workItem from="1586910989310" duration="16785000" />
+      <workItem from="1586996410141" duration="5917000" />
+      <workItem from="1587083786652" duration="892000" />
+      <workItem from="1587118954996" duration="32000" />
+      <workItem from="1587189839127" duration="2186000" />
+      <workItem from="1587276261726" duration="1349000" />
+      <workItem from="1587340979478" duration="4599000" />
+      <workItem from="1587445629077" duration="2193000" />
+      <workItem from="1587527597211" duration="10000" />
+      <workItem from="1587530363789" duration="5549000" />
+      <workItem from="1587604716710" duration="1743000" />
+      <workItem from="1587619994479" duration="1995000" />
+      <workItem from="1587643064976" duration="2733000" />
+      <workItem from="1587687362002" duration="2473000" />
+      <workItem from="1587714872694" duration="3620000" />
+      <workItem from="1587774085750" duration="20328000" />
+      <workItem from="1587859634799" duration="18093000" />
+      <workItem from="1587905415652" duration="1222000" />
+      <workItem from="1587944379358" duration="14231000" />
+      <workItem from="1588045425770" duration="1432000" />
+      <workItem from="1588066203280" duration="10728000" />
+      <workItem from="1588085109899" duration="16000" />
+      <workItem from="1588121800236" duration="8673000" />
+      <workItem from="1588203434682" duration="4253000" />
+      <workItem from="1588295505434" duration="1118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="266" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1587539863376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="266" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1587539863376" />
+    <state x="449" y="57" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1586750992648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="57" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1536.824@0.0.1536.824" timestamp="1586750992648" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1588295731718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588295731718" />
+    <state x="550" y="135" key="RollbackChangesDialog" timestamp="1586919211945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="135" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586919211945" />
+    <state x="-98" y="74" width="1273" height="707" key="SettingsEditor" timestamp="1587687377209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-98" y="74" width="1273" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587687377209" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587946171502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1587946171502" />
+    <state x="178" y="0" key="new project wizard" timestamp="1588053218854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588053218854" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587867407425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587867407425" />
+  </component>
+</project>

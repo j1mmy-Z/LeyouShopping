@@ -1,0 +1,23 @@
+server:
+  port: 8106
+spring:
+  application:
+    name: auth-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9086/eureka
+    registry-fetch-interval-seconds: 10
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds: 15
+
+leyou:
+  jwt:
+    secret: leyou@Login(Auth}*^20)&jimmy% # 登录校验的密钥
+    pubKeyPath: D:\\upload\\rsa\\rsa.pub # 公钥地址
+    priKeyPath: D:\\upload\\rsa\\rsa.pri # 私钥地址
+    expire: 30 # 过期时间,单位分钟
+    cookieName: LY_TOKEN

@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: user-service
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/leyou?serverTimezone=UTC
+    #driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: zyc991013
+  rabbitmq:
+    host: 192.168.74.128
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
+  redis:
+    host: 192.168.74.128
+server:
+  port: 8105
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9086/eureka
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

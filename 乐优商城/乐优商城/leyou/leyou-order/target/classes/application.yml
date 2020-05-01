@@ -1,0 +1,42 @@
+server:
+  port: 8107
+spring:
+  application:
+    name: order-service
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/leyou?serverTimezone=UTC
+    #driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: zyc991013
+  rabbitmq:
+    host: 192.168.74.128
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
+  redis:
+    host: 192.168.74.128
+  jackson:
+    default-property-inclusion: non_null
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9086/eureka
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+leyou:
+  jwt:
+    pubKeyPath: D:\\upload\\rsa\\rsa.pub # 公钥地址
+    cookieName: LY_TOKEN
+  worker:
+    workerId: 7
+    datacenterId: 7
+  pay:
+    appId: wx8397f8696b538317
+    mchId: 1473426802
+    key: T6m9iK73b0kn9g5v426MKfHQH7X8rKwb
+    connectTimeoutMs: 5000
+    readTimeoutMs: 10000
