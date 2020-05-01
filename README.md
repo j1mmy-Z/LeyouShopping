@@ -2,6 +2,10 @@
 
 ![image](https://github.com/j1mmy-Z/LeyouShopping/blob/master/images/1525703759035.png)
 
+### leyou 后端微服务
+### leyou-portal 前端门户
+### leyou-manage-web 前端管理页
+
 ## 前端技术：
 
 * 基础的HTML、CSS、JavaScript（基于ES6标准）
